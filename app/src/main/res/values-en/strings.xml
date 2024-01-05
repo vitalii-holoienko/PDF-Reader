@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pdf viewer</string>
+    <string name="all_files">All Files</string>
+    <string name="all_files_small_text">All files</string>
+    <string name="recent_small_text">Recent</string>
+    <string name="favourite_small_text">Favourite</string>
+    <string name="open" translatable="false">Open navigation</string>
+    <string name="close" translatable="false">Close Navigation</string>
+    <string name="favourites">Favourites</string>
+    <string name="recent_files">Recent files</string>
+    <string name="browse_pdf">Browse PDF</string>
+    <string name="set_language">Set language</string>
+    <string name="enable_darkmode">Dark theme</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="version">Version: 1.0.0</string>
+    <string name="share_application">Share Application</string>
+</resources>

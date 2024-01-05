@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- res/values/colors.xml -->
+    <color name="light_cardview_background">#FFFFFF</color>
+
+    <!-- res/values-night/colors.xml -->
+    <color name="dark_cardview_background">#2A2C34</color>
+    <color name="light_footer_background">#FFFFFF</color>
+
+    <!-- res/values-night/colors.xml -->
+    <color name="dark_footer_background">#232323</color>
+    <color name="dark_screen_background">#232323</color>
+    <color name="light_screen_background">#FFFFFF</color>
+    <color name="dark_el">#2A2C34</color>
+</resources>

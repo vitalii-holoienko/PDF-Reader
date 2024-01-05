@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Остальные атрибуты стиля SearchView -->
+        <item name="searchHintIcon">@null</item>
+    </style>
+    <style name="Theme.AppCompat.Light.Dialog" parent="@style/Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="Button.White" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+    <style name="NoNightModeTheme">
+        <item name="android:background">#FFFFFF</item> <!-- Set your desired color here -->
+        <!-- Add any other view-specific styling attributes if needed -->
+    </style>
+</resources>

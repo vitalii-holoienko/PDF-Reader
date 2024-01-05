@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pdf viewer</string>
+    <string name="all_files">Все файлы</string>
+    <string name="all_files_small_text">Все файлы</string>
+    <string name="recent_small_text">Недавние</string>
+    <string name="favourite_small_text">Избранные</string>
+    <string name="favourites">Избранные</string>
+    <string name="recent_files">Недавние</string>
+    <string name="browse_pdf">Найти PDF</string>
+    <string name="set_language">Изменить язык</string>
+    <string name="enable_darkmode">Темный режим</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="version">Версия: 1.0.0</string>
+    <string name="share_application">Поделиться приложением</string>
+</resources>
